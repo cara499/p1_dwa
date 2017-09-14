@@ -1,0 +1,28 @@
+body {
+    background-color: DarkCyan;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+    border: 3px solid green;
+    padding:200px;
+}
+
+p {
+    text-align: justify;
+    margin: 0px 200px 0px 200px;
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+}
